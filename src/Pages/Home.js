@@ -42,6 +42,8 @@ export default function Home() {
           value={text}
           onChange={(e) => handleSubmit(e.target.value)}
         />
+
+        <h1>The Project is Under Development</h1>
      </div>
 
       <div className=" grid justify-center">
